@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/midterm-liveweb-final/precache-manifest.148e9f2e4bd9747179dceb92ab9ada5e.js"
+  "/midterm-liveweb-final/precache-manifest.98aba181b3031b89125ed07dcef8fe5d.js"
 );
 
 self.addEventListener('message', (event) => {

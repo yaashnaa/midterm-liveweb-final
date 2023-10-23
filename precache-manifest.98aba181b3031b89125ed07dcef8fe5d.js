@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52c1de36819091f8b32510a2933996b1",
+    "revision": "bbfd6039dabc539383997428d2b2b522",
     "url": "/midterm-liveweb-final/index.html"
   },
   {
